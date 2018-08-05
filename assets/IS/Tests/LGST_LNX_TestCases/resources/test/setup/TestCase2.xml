@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<webMethodsTestSuite description="Sample tests for the WmServiceMockSamples implementation" name="SuccessScenario">
+    <webMethodsTestCase name="SuccessScenario">
+        <service folder="LGST_SAP_WMS.services.PurchaseOrder" name="processPurchaseOrder">
+            <input>
+                <file filename="resources/test/data/input_case1.xml"/>
+            </input>
+            <expected>
+                <file filename="resources/test/data/output_case1.xml"/>
+            </expected>
+        </service>
+    </webMethodsTestCase>
+</webMethodsTestSuite>
