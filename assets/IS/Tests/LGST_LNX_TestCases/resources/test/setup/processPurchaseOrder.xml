@@ -17,7 +17,7 @@
             </input>
             <expected>
                 <file/>
-                <field endParen=")" operator="==" path="LGST_SAP_WMS.docs:purchaseOrder/Quantity" startParen="(" value="500l"/>
+                <field endParen=")" operator="==" path="//Quantity" startParen="(" value="500l"/>
             </expected>
         </service>
     </webMethodsTestCase>
