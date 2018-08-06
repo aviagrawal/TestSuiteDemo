@@ -10,7 +10,6 @@
             </input>
             <expected>
                 <file filename="resources/test/xml/data/fibExpectedOutput.xml"/>
-                <field path="fibonachiNumber" value="8"/>
             </expected>
         </service>
     </webMethodsTestCase>
