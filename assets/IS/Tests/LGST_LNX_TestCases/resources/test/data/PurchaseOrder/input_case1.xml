@@ -2,7 +2,6 @@
 
 <IDataXMLCoder version="1.0">
   <record javaclass="com.wm.data.ISMemDataImpl">
-    <value name="fileName">intput.xml</value>
     <record name="LGST_SAP_WMS.docs:purchaseOrder" javaclass="com.wm.data.ISMemDataImpl">
       <value name="PONumber">008005678</value>
       <value name="Sender">Woolworths</value>
