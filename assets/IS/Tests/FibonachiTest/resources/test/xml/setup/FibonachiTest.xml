@@ -13,7 +13,7 @@
             </expected>
         </service>
     </webMethodsTestCase>
-    <webMethodsTestCase name="TestException">
+    <webMethodsTestCase enabled="false" name="TestException">
         <service folder="Fibonachi.services" name="getFibunachiNumber">
             <input>
                 <file filename="resources/test/xml/data/fibWrongInput.xml"/>
