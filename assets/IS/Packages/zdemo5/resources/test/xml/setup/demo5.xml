@@ -3,10 +3,10 @@
     <webMethodsTestCase name="SuccessCase">
         <service folder="zdemo3" name="addInts">
             <input>
-                <file filename="resources/test/data/myInputs.xml"/>
+                <file filename="resources/test/xml/data/myInputs.xml"/>
             </input>
             <expected>
-                <file filename="resources/test/data/myOutput.xml"/>
+                <file filename="resources/test/xml/data/myOutput.xml"/>
             </expected>
         </service>
     </webMethodsTestCase>
