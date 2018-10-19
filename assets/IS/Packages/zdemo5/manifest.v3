@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="enabled">yes</value>
+  <value name="system_package">no</value>
+  <value name="version">1.0</value>
+  <null name="startup_services"/>
+  <null name="shutdown_services"/>
+  <null name="replication_services"/>
+  <null name="requires"/>
+  <null name="listACL"/>
+  <value name="webappLoad">yes</value>
+  <value name="name">zdemo5</value>
+  <value name="build">1.0.31</value>
+  <null name="description"/>
+  <value name="time">2018-10-18 09:55:33 CEST</value>
+  <value name="jvm_version">1.8.0_162</value>
+  <value name="publisher">daeipresal28029.eur.ad.sag</value>
+  <value name="patch_nums"></value>
+</Values>
