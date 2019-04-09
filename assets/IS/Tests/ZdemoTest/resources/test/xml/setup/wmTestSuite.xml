@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<webMethodsTestSuite description="" name="addTest.xml">
+    <webMethodsTestCase name="addnumTestingforDec">
+        <service folder="demolocal" name="addints">
+            <input>
+                <file filename="resources/test/xml/data/dec1_addnum_input.xml"/>
+            </input>
+            <expected>
+                <file filename="resources/test/xml/data/dec1_addnum_output.xml"/>
+            </expected>
+        </service>
+    </webMethodsTestCase>
+</webMethodsTestSuite>
