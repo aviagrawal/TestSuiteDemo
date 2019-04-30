@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<webMethodsTestSuite description="Auto Generated from Template" name="TS_wmtestroht.xml">
+    <webMethodsTestCase description="Generate a Test Wizard" name="TC_addintdemo">
+        <service folder="demoFlow" name="addintdemo">
+            <input>
+                <file filename="resources/demoFlow_addintdemo_input.xml"/>
+            </input>
+            <expected>
+                <file filename="resources/demoFlow_addintdemo_output.xml"/>
+            </expected>
+        </service>
+    </webMethodsTestCase>
+</webMethodsTestSuite>
